@@ -9,6 +9,10 @@ An introduction to how I made the animation and tracking of the snake possible c
 
 Deployed on Firebase.
 
+## Special note:
+I only manually added the source files I thought would show how it worked.  This is not the full Angular app.
+For some reason I can not get the code to add from Powershell. 
+
 ## How to Play
 
 The snake, or small green square will start at the bottom of the game screen moving upward after you click 'Start'.
