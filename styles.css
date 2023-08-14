@@ -26,7 +26,6 @@ app-root {
 app-gamescreen {
     display: flex;
     flex-direction: column;
-    margin-top: 50px;
 }
 
 /*  TOOLS   */
@@ -34,7 +33,6 @@ app-tools {
   display: flex;
   align-self: center;
   justify-self: center;
-  padding-top: 5px;
   width: 100%;
  
 }
